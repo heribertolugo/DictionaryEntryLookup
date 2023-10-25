@@ -27,3 +27,9 @@ The following words are included by default in the dictionary:
 
 
 ![image](https://github.com/heribertolugo/DictionaryEntryLookup/assets/26213368/14240d75-b146-4531-9293-17272a43722a)
+\
+\
+![image](https://github.com/heribertolugo/DictionaryEntryLookup/assets/26213368/7e83ff85-84de-4baf-beed-84b5506de7b1)
+\
+\
+![dictjionary](https://github.com/heribertolugo/DictionaryEntryLookup/assets/26213368/e2fa7f08-d239-4908-bfc4-bd2323c05486)
