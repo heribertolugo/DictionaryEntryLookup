@@ -1,0 +1,19 @@
+﻿************************************
+1/3/14 - v1.0.0.9
+************************************
+
+Intro
+Dictionary Entry & Lookup lets you save a word and its language properties. Language properties are as they are found in most dictionaries.
+The following words are already included to give you an idea how they are entered, and how they can be viewed in a formatted fashion.
+Adjective, Adverb, Article, Conjunction, Interjection, Intransitive Verb, Noun, Preposition, Pronoun, Transative Verb, Truck, Verb
+
+Known Bugs
+1- When Entry is saved with only 1 part of speech, the display in formatted pane may be cut short.
+searching for the newly saved Entry and clicking on it to view will display correctly.
+2- When changing from a Entry with a pronounciation , to a word without - the pronounciation header will show in Entry
+that did not include pronounciation. Selecting another Entry will correct this.
+
+For next release
+1- Ability to configure formatting option for Entry displayed in "formatted" pane.
+2- Hot linking synonyms to their corresponding Entry in database.
+3- Origin as an object, which will include countries, word, usage. 
