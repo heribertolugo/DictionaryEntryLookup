@@ -24,3 +24,6 @@ The following words are included by default in the dictionary:
 - Article
 - Indefinite article
 - Definite article
+
+
+![image](https://github.com/heribertolugo/DictionaryEntryLookup/assets/26213368/14240d75-b146-4531-9293-17272a43722a)
